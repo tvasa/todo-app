@@ -1,8 +1,10 @@
+import AllTasks from "./components/AllTasks"
 const App = () => {
 
     
     return (
-        <h1>Test</h1>
+        <AllTasks />
+        
     )
 }
 
